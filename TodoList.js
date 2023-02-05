@@ -31,7 +31,7 @@ const nav=document.querySelector("h1")
 nav.style.color="white"
 nav.style.textAlign="center"
 nav.style.backgroundColor = 'black';
-nav.style.padding = '10px';
+nav.style.padding ='10px';
 nav.style.width='250px'
 console.log(see)
 

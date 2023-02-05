@@ -12,11 +12,11 @@ link.href="https://emeritus.org/blog/coding-javascript-project-ideas/"
 const section = document.querySelector("section")
 console.log(section)
 const parent =document.createElement("b")
-parent.textContent="\nnow we create the b tag through Javascript DOM"
+parent.textContent="e.g DOM"
 console.log(parent)
 // Now you can appendChild(),the text will display on
 section.appendChild(parent)
-const createSourceNode=document.createTextNode("\nFirst knowledge web develop should have");
+const createSourceNode=document.createTextNode("\nFirst knowledge");
 console.log(createSourceNode)
 // Now you should select the element should display the text 
 const seclet = document.querySelector("section")
